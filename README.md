@@ -4,6 +4,7 @@ Experienced Senior React Front-End Developer with over ten years of expertise in
 ## Hands-on training
 * [Next.js 15 App Router](https://github.com/roman-ua89/nextjs)
 * [OWASP](https://github.com/roman-ua89/owasp)
+* [FlexBox and Grid](https://github.com/roman-ua89/flexbox_grid)
 * [Memory leaks](https://github.com/roman-ua89/memory-leaks)
 * [Puzzles (leetcode and other...)](https://github.com/roman-ua89/puzzles)
 * [Patterns (creational/behavioral/structural)](https://github.com/roman-ua89/puzzles)
