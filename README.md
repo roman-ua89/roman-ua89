@@ -8,3 +8,8 @@ Experienced Senior React Front-End Developer with over ten years of expertise in
 * [Memory leaks](https://github.com/roman-ua89/memory-leaks)
 * [Puzzles (leetcode and other...)](https://github.com/roman-ua89/puzzles)
 * [Patterns (creational/behavioral/structural)](https://github.com/roman-ua89/puzzles)
+* [Data structures](https://github.com/roman-ua89/data-structure):
+
+<ul style="padding-left: 50px; margin-top: -10px">
+    <li>Linked list</li>
+</ul>
