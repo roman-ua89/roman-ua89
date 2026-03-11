@@ -11,5 +11,6 @@ Experienced Senior React Front-End Developer with over ten years of expertise in
 * [Data structures](https://github.com/roman-ua89/data-structure):
 
 <ul style="padding-left: 50px; margin-top: -10px">
-    <li>Linked list</li>
+    <li>Singly linked list</li>
+    <li>Doubly linked list</li>
 </ul>
